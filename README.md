@@ -5,7 +5,7 @@ Built for the Google AI Builder Cup.
 SecondLife Engine uses multimodal AI to convert waste streams into structured upcycling blueprints. 
 
 ## 🛠️ Google Cloud Architecture
-- **Gemini (`gemini-2.5-flash`):** Core multimodal engine for vision parsing, bounding-box generation, and multi-agent workflow orchestration.
+- **Gemini (`gemini-3.8-flash`):** Core multimodal engine for vision parsing, bounding-box generation, and multi-agent workflow orchestration.
 - **Cloud Run:** Serverless backend hosting for our FastAPI service.
 - **Firebase / Firestore:** Persistent storage for inventory metrics and saved creative project proposals.
 
